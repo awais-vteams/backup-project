@@ -1,4 +1,4 @@
-# Backup Project/Folder
+# Backup Project / Folder
 
 Backup PHP | Laravel OR any Project folder with MySQL Database Dump
 
@@ -23,5 +23,5 @@ Or set in crontab
 ```
 # Every day at midnight
 
-0 0 * * * /bin/sh backup.sh
+0 0 * * * /bin/sh /path/to/backup.sh
 ```
